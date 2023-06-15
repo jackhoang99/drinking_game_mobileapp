@@ -8,7 +8,17 @@ const cardImages = [
   require('./img/card3.png'),
   require('./img/card4.png'),
   require('./img/card5.png'),
-  // Add more card images as needed
+  require('./img/card6.png'),
+  require('./img/card7.png'),
+  require('./img/card8.png'),
+  require('./img/card9.png'),
+  require('./img/card10.png'),
+  require('./img/card11.png'),
+  require('./img/card12.png'),
+  require('./img/card13.png'),
+  require('./img/card14.png'),
+  require('./img/card15.png'),
+  // Add more card images 
 ];
 
 export default function SecondScreen() {
